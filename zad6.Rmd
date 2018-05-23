@@ -1,0 +1,44 @@
+---
+title: "Diabeł Tasmański"
+author: "Julia super programista"
+date: "23 maja 2018"
+output: html_document
+ 
+---
+### Diabeł Tasmański
+![](http://3.bp.blogspot.com/-aP47XhRYpyM/UI5dAXDaQBI/AAAAAAAADPc/2u9ofOjQTFQ/s1600/2109270145_e43b5f8c3e.jpg)
+
+## Ogólne informację
+  Diabeł tasmański to gatunek **mięsożernego ssaka**, **torbacza**. 
+  Obecnie występuje na wolności jedynie na **australijskiej wyspie Tasmanii**. 
+  Osiąga wielkość niewielkiego psa i jest największym współczesnym mięsożernym torbaczem.
+---
+  
+# Cechy charakterystyczne 
+- krępe i umięśnione ciało, 
+- czarne futro, 
+- ostry zapach, 
+- bardzo głośny i niepokojący pisk, 
+- doskonały węch, 
+- charakterystyczny sposób pożywiania się. 
+  
+![](http://www.newswise.com/images/uploads/2008/11/02/fullsize/Tasmanian_devil.jpg)
+
+# Co je ten zwierz?
+  Poluje na zdobycz i poszukuje padliny, zjada też produkty spożywcze, jeśli bytuje w pobliżu osiedli ludzkich. 
+  
+# Tryb życia
+Zazwyczaj prowadzi **samotny** tryb życia, czasami żywi się razem z innymi diabłami i wypróżnia się we wspólnym miejscu. W odróżnieniu od większości niełazowatych, posiada efektywne **mechanizmy termoregulacj**i organizmu, co pozwala mu zachować aktywność w południe, nie przegrzewając się. Pomimo pulchnego wyglądu zaskakuje **szybkością i wytrzymałością**. Potrafi wspinać się na drzewa i przepływać rzeki.
+
+## Diabły tasmańskie a kultura
+
+1. Stanowi symbol Tasmanian National Parks and Wildlife Service. 
+2. Dawniejszy zespół futbolu w Victorian Football League znany był jako Devils („Diabły”). 
+3. Zwierzę pojawiło się na kilku pamiątkowych monetach australijskich. 
+4. Tasmański Cascade Brewery sprzedaje piwo imbirowe z diabłem tasmańskim na etykiecie.
+5. Inspiracja dla bohatera kreskówki Looney Tunes Diabła Tasmańskiego, zwanego też „Taz”, który pojawił się w 1954.
+6. Superbohater, stworzony przez DC Comics, zwany Tasmanian Devil, wchodzący w skład grupy Global Guardians.
+
+![](https://vignette.wikia.nocookie.net/zwariowanemelodie/images/8/8e/Tasmanian_Devil.jpg/revision/latest?cb=20111112105209&path-prefix=pl)
+
+Tutaj można obejrzeć najlepsze momenty z tej bajki [**Top10**] (https://www.youtube.com/watch?v=3NyMWM_g8zA)
